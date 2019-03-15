@@ -1,0 +1,14 @@
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.exe.config
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.exe
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.pdb
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.csprojAssemblyReference.cache
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.csproj.CoreCompileInputs.cache
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.exe
+C:\Users\Komput\source\repos\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.exe.config
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\bin\Debug\PokazPilikiUtworzonePoKliknieciu.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.csprojAssemblyReference.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.csproj.CoreCompileInputs.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiUtworzonePoKliknieciu\PokazPilikiUtworzonePoKliknieciu\obj\Debug\PokazPilikiUtworzonePoKliknieciu.pdb
